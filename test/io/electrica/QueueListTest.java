@@ -1,4 +1,4 @@
-package io.electrica.test;
+package io.electrica;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
